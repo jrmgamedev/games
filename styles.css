@@ -41,3 +41,13 @@ table {
     margin: auto;
     text-align: center;
 }
+
+.devlog {
+    font-size: 1.3rem;
+    vertical-align: top;
+}
+
+.devlog td {
+    padding-top: 40px;
+    width: 300px;
+}
