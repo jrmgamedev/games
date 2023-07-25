@@ -10,12 +10,6 @@ body {
     padding: 0;
 }
 
-footer {
-    height: 200px;
-    margin: 60px 60px 0;
-    text-align: center;
-}
-
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Noto Sans', sans-serif;
     color: #292929;
@@ -25,8 +19,13 @@ header {
     background-color: #2eb9f7;
     font-size: 1.6rem;
     height: 240px;
-    padding: auto;
     width: 100%;
+}
+
+footer {
+    height: 120px;
+    padding: 33px;
+    text-align: center;
 }
 
 table {
@@ -52,11 +51,19 @@ table {
     padding-left: 40px;
 }
 
-.links {
-    text-align: right;
+.game-description {
+    margin: auto;
+    text-align: left;
+    width: 921px;
 }
 
-.links button {
+.game-links {
+    margin: auto;
+    text-align: right;
+    width: 921px;
+}
+
+.game-links button {
     margin: 10px 0px 10px 4px;
 }
 
