@@ -5,10 +5,11 @@ A casual game inspired by the classic favorite board game — Snake and Ladders.
 Features:
 • Turn-Based Gameplay
 • 8 Awesome Cats
-• 5 Unique Maps
-• Play Solo or Multiplayer
+• 6 Unique Maps
+• Local Multiplayer
+• Free & No ads
 
-Note: Multiplayer can be played by sharing a single device.
+Note: Multiplayer can be played by 2 (up to 8) people by sharing a single device.
 
 Maps:
 • Tiny Island
@@ -16,6 +17,7 @@ Maps:
 • Spooky Garden
 • Ocean Park
 • Classic Tower
+• Game World
 
 Supported Languages:
 • English

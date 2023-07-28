@@ -43,7 +43,17 @@ table {
     text-align: right;
 }
 
-.devlog {
+.faq {
+    font-size: 1.1rem;
+    margin: auto;
+    width: 921px;
+}
+
+.faq h2 {
+    text-align: center;
+}
+
+.game-roadmap table {
     width: 921px;
 }
 
