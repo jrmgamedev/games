@@ -82,23 +82,3 @@ table {
     margin: auto;
     text-align: center;
 }
-
-.header-icons {
-    animation-duration: 4s;
-    animation-name: slidein;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
-    color: white;
-}
-
-@keyframes slidein {
-    from {
-        margin-left: 70%;
-        width: 100%;
-    }
-
-    to {
-        margin-left: 20%;
-        width: 100%;
-    }
-}
