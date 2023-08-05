@@ -7,9 +7,8 @@ Features:
 • 8 Awesome Cats
 • 6 Unique Maps
 • Local Multiplayer
-• Free & No ads
 
-Note: Multiplayer can be played by 2 (up to 8) people by sharing a single device.
+Note: Local Multiplayer can be played by 2 (up to 8) people by sharing a single device.
 
 Maps:
 • Tiny Island
